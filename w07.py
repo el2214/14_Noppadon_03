@@ -4,3 +4,4 @@ colors = ["Red","Green","Blue","Yelloe"]
 
 print(f"{colors[-4:]}")
 print(f"{colors[0:4]}")
+

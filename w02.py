@@ -12,3 +12,4 @@ print(f"ความถี่ของคุณคือ = {frequency_input} ")
  # เทคนิค 02
 show = f"ความถี่ของคุณคือ = {frequency_input}"
 print(show)
+

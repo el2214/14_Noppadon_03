@@ -10,3 +10,4 @@ mode = str(parts[3])
 status = str(parts[4])
 
 print(call_sign)
+

@@ -8,3 +8,4 @@ R = W/(H/100*H/100)
 R2 = f"{R:.2f}"
 print(f"{R:.2f}")
 print(R2)
+
